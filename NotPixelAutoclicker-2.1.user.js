@@ -5,8 +5,8 @@
 // @version      2.1
 // @grant        none
 // @icon         https://notpx.app/favicon.ico
-// @downloadURL  https://github.com/mudachyo/Not-Pixel/raw/main/not-autoclicker.user.js
-// @updateURL    https://github.com/mudachyo/Not-Pixel/raw/main/not-autoclicker.user.js
+// @downloadURL  https://github.com/clowobis/Not-Pixel/raw/main/NotPixelAutoclicker-2.1.user.js
+// @updateURL    https://github.com/clowobis/Not-Pixel/raw/main/NotPixelAutoclicker-2.1.user.js
 // @homepage     https://github.com/mudachyo/Not-Pixel
 // ==/UserScript==
 
